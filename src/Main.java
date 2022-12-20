@@ -9,6 +9,7 @@ public class Main {
         System.out.println(aluno1);
 
         System.out.println("Média = " + calculaMedia(10, 20));
+        System.out.println("Teste");
     }
 
     public static double calculaMedia(double num1, double num2){
